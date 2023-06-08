@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1686128984",
-      "filename": "lineage-17.1-20230607-UNOFFICIAL-herolte.zip",
-      "id": "9ff1bf5fb8c9d8da77711645fd28b766128ea6a4916b1cabe97214582ce6605c",
+      "datetime": "1686220031",
+      "filename": "lineage-17.1-20230608-UNOFFICIAL-herolte.zip",
+      "id": "9d443dd2bdfb26aa98d14d1d1a06152c3b65a95e12648f93ddb6c5c9702ad970",
       "romtype": "UNOFFICIAL",
-      "size": "600606675",
-      "url": "https://github.com/taoxanh19999/taoxanh.github.io/releases/download/herolte_lineage-17.1_1686128984/lineage-17.1-20230607-UNOFFICIAL-herolte.zip",
+      "size": "620604883",
+      "url": "https://github.com/taoxanh19999/taoxanh.github.io/releases/download/herolte_lineage-17.1_1686220031/lineage-17.1-20230608-UNOFFICIAL-herolte.zip",
       "version": "17.1"
     }
   ]
