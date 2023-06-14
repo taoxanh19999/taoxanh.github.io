@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1686132802",
-      "filename": "lineage-17.1-20230607-UNOFFICIAL-a5y17lte.zip",
-      "id": "ab26e54580bf142ccfd479ceb7fdd58843323eb03ddcb5cb864707f967e7cf13",
+      "datetime": "1686760227",
+      "filename": "lineage-17.1-20230614-UNOFFICIAL-a5y17lte.zip",
+      "id": "99d203d03f46c458730632271a22a12c2686e2025ca4ab46d89b747dafea3ba3",
       "romtype": "UNOFFICIAL",
-      "size": "582356220",
-      "url": "https://github.com/taoxanh19999/taoxanh.github.io/releases/download/a5y17lte_lineage-17.1_1686132802/lineage-17.1-20230607-UNOFFICIAL-a5y17lte.zip",
+      "size": "582534022",
+      "url": "https://github.com/taoxanh19999/taoxanh.github.io/releases/download/a5y17lte_lineage-17.1_1686760227/lineage-17.1-20230614-UNOFFICIAL-a5y17lte.zip",
       "version": "17.1"
     }
   ]
