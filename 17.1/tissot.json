@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1686220781",
-      "filename": "lineage-17.1-20230608-UNOFFICIAL-tissot.zip",
-      "id": "8e0799a4ee6b22fd06352d22836c34aa87ee8901dfa808d8e6f34ccabaedc6cd",
+      "datetime": "1686760307",
+      "filename": "lineage-17.1-20230614-UNOFFICIAL-tissot.zip",
+      "id": "4949b4c9b93bdab048938783696269ec1120f0b8220c6e9b4fa8e4ff86f4ea24",
       "romtype": "UNOFFICIAL",
-      "size": "603848133",
-      "url": "https://github.com/taoxanh19999/taoxanh.github.io/releases/download/tissot_lineage-17.1_1686220781/lineage-17.1-20230608-UNOFFICIAL-tissot.zip",
+      "size": "603896783",
+      "url": "https://github.com/taoxanh19999/taoxanh.github.io/releases/download/tissot_lineage-17.1_1686760307/lineage-17.1-20230614-UNOFFICIAL-tissot.zip",
       "version": "17.1"
     }
   ]
